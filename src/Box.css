@@ -1,0 +1,18 @@
+#main{
+    width: 1500px;
+    height: 200px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.bx1{
+    width: 300px;
+    background-color: #cc2828;
+}
+p{
+    padding: 10px 90px;
+    text-align: justify;
+
+}
